@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://WilliamFish9623.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-06-10T12:15:36.149Z</updated>
+    <title>小越の打工仔</title>
+    <updated>2019-06-10T12:17:20.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://WilliamFish9623.github.io"/>
     <link rel="self" href="http://WilliamFish9623.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>向杨而生，超越一切</subtitle>
     <logo>http://WilliamFish9623.github.io/images/avatar.png</logo>
     <icon>http://WilliamFish9623.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 小越の打工仔</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>http://WilliamFish9623.github.io/post/hello-gridea</id>
